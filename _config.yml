@@ -21,12 +21,17 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - react-turkce-kaynak
+      - guvercin
+      - karar-carki
+      - locark-desktop
+      - stajyerco
+      - youtube-clone
 
 # social_media:
   # behance: your_username
@@ -40,19 +45,33 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+    twitter: tunaorcun_
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+    website: https://www.arkkod.com
+    youtube: UCQVUGQzLNwA10je25ofxOVQ
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
-  - name: Web design
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://github.com/topics/nodejs
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+    
+  - name: React Native
+    web_url: https://github.com/topics/react-native
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
+    
+  - name: MongoDB
+    web_url: https://github.com/topics/mongodb
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png
+    
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
